@@ -369,7 +369,7 @@ with aba4:
     st.subheader("🤖 Modelo de Perfis — K-Means Clustering")
 
     st.markdown("""
-    O modelo agrupa os **184 municípios do Ceará** em 4 perfis de utilização do SUS,
+    O modelo agrupa os **183 municípios do Ceará** em 4 perfis de utilização do SUS,
     com base em 3 variáveis:
 
     | Variável | Significado |
