@@ -24,7 +24,7 @@ df = carregar()
 
 # ── Header ───────────────────────────────────────────────────────────────────
 st.title(":material/health_metrics: Atendimentos SUS — Ceará")
-st.caption("Análise enriquecida com dados IBGE (Censo 2022) · 204.579 registros")
+st.caption(f"Análise enriquecida com dados IBGE (Censo 2022) · {df['total_atendimentos'].sum():,} registros processados")
 
 # ── Abas principais ──────────────────────────────────────────────────────────
 aba1, aba2, aba3, aba4 = st.tabs([
@@ -402,6 +402,7 @@ with aba4:
             "IDH_médio": "IDH médio",
             "Atend_100k_médio": "Atend./100k médio",
         })
+        .sort_values("Atend./100k médio", ascending=False)
     )
     st.dataframe(resumo, use_container_width=True, hide_index=True)
 
