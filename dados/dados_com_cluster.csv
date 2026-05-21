@@ -1,0 +1,185 @@
+municipio,regiao,populacao,idh,total_atendimentos,atend_por_100k,rank_proporcional,cod_ibge,cluster,perfil
+ABAIARA,Região Metropolitana do Cariri,10553,0.591,231,2188.95,143,2300101,3,🟢 Utilização moderada
+ACARAPE,Maciço de Baturité,17305,0.627,495,2860.44,102,2300150,1,🟡 Alta utilização
+ACARAÚ,Litoral Norte,55090,0.609,2368,4298.42,58,2300200,1,🟡 Alta utilização
+ACOPIARA,Centro-Sul,53417,0.59,1331,2491.72,121,2300309,1,🟡 Alta utilização
+AIUABA,Sertão Centro-Sul,15756,0.554,570,3617.67,80,2300408,3,🟢 Utilização moderada
+ALCÂNTARAS,Noroeste,11543,0.611,211,1827.95,155,2300507,3,🟢 Utilização moderada
+ALTANEIRA,Cariri,7467,0.614,205,2745.41,107,2300606,3,🟢 Utilização moderada
+ALTO SANTO,Jaguaribe,17063,0.575,510,2988.92,98,2300705,3,🟢 Utilização moderada
+AMONTADA,Litoral Norte,39981,0.601,1302,3256.55,90,2300754,1,🟡 Alta utilização
+ANTONINA DO NORTE,Centro-Sul,7060,0.58,192,2719.55,109,2300804,3,🟢 Utilização moderada
+APUIARÉS,Norte,14019,0.603,219,1562.17,169,2300903,3,🟢 Utilização moderada
+AQUIRAZ,Região Metropolitana de Fortaleza,78072,0.656,1926,2466.95,123,2301000,2,🔵 Baixa utilização
+ARACATI,Litoral Leste,70484,0.638,772,1095.28,178,2301109,1,🟡 Alta utilização
+ARACOIABA,Maciço de Baturité,23611,0.582,703,2977.43,99,2301208,3,🟢 Utilização moderada
+ARARENDÁ,Sertão dos Inhamuns,10197,0.571,206,2020.2,149,2301257,3,🟢 Utilização moderada
+ARARIPE,Cariri,21617,0.568,895,4140.26,66,2301307,3,🟢 Utilização moderada
+ARATUBA,Maciço de Baturité,12117,0.597,387,3193.86,93,2301406,3,🟢 Utilização moderada
+ARNEIROZ,Sertão dos Inhamuns,8037,0.565,163,2028.12,147,2301505,3,🟢 Utilização moderada
+ASSARÉ,Cariri,22831,0.57,549,2404.63,126,2301604,3,🟢 Utilização moderada
+AURORA,Cariri,25007,0.593,586,2343.34,133,2301703,3,🟢 Utilização moderada
+BAIXIO,Centro-Sul,7523,0.59,146,1940.72,150,2301802,3,🟢 Utilização moderada
+BANABUIÚ,Sertão Central,17665,0.572,484,2739.88,108,2301851,3,🟢 Utilização moderada
+BARBALHA,Cariri,60297,0.673,967,1603.73,166,2301901,2,🔵 Baixa utilização
+BARREIRA,Maciço de Baturité,21104,0.598,436,2065.96,146,2301950,3,🟢 Utilização moderada
+BARRO,Cariri,21619,0.582,363,1679.08,162,2302008,3,🟢 Utilização moderada
+BARROQUINHA,Litoral Norte,14984,0.588,654,4364.66,56,2302057,0,🔴 Altíssima utilização
+BATURITÉ,Maciço de Baturité,35163,0.647,805,2289.34,137,2302107,1,🟡 Alta utilização
+BEBERIBE,Litoral Leste,49716,0.6,1445,2906.51,101,2302206,1,🟡 Alta utilização
+BELA CRUZ,Litoral Norte,30898,0.606,864,2796.3,105,2302305,1,🟡 Alta utilização
+BOA VIAGEM,Sertão Central,52614,0.58,1387,2636.18,113,2302404,1,🟡 Alta utilização
+BREJO SANTO,Cariri,49380,0.655,1172,2373.43,128,2302503,1,🟡 Alta utilização
+CAMOCIM,Litoral Norte,61853,0.624,1452,2347.5,132,2302602,1,🟡 Alta utilização
+CAMPOS SALES,Cariri,28028,0.591,943,3364.49,87,2302701,1,🟡 Alta utilização
+CANINDÉ,Sertão Central,75376,0.613,1618,2146.57,144,2302800,1,🟡 Alta utilização
+CAPISTRANO,Maciço de Baturité,17601,0.611,421,2391.91,127,2302909,3,🟢 Utilização moderada
+CARIDADE,Sertão Central,20974,0.592,650,3099.08,95,2303006,3,🟢 Utilização moderada
+CARIRÉ,Noroeste,19004,0.591,504,2652.07,112,2303105,3,🟢 Utilização moderada
+CARIRIAÇU,Cariri,23822,0.579,345,1448.24,172,2303204,3,🟢 Utilização moderada
+CARIÚS,Centro-Sul,19083,0.575,407,2132.79,145,2303303,3,🟢 Utilização moderada
+CARNAUBAL,Serra da Ibiapaba,17533,0.602,275,1568.47,168,2303402,3,🟢 Utilização moderada
+CASCAVEL,Região Metropolitana de Fortaleza,68207,0.652,1494,2190.39,142,2303501,1,🟡 Alta utilização
+CATARINA,Centro-Sul,17619,0.572,272,1543.79,170,2303600,3,🟢 Utilização moderada
+CATUNDA,Sertão dos Inhamuns,10604,0.563,255,2404.75,125,2303659,3,🟢 Utilização moderada
+CAUCAIA,Região Metropolitana de Fortaleza,367010,0.682,2930,798.34,182,2303709,2,🔵 Baixa utilização
+CEDRO,Sertão Central,23659,0.601,561,2371.19,129,2303808,3,🟢 Utilização moderada
+CHAVAL,Litoral Norte,13079,0.597,695,5313.86,33,2303907,0,🔴 Altíssima utilização
+CHORÓ,Sertão Central,14498,0.574,546,3766.04,77,2303931,3,🟢 Utilização moderada
+CHOROZINHO,Região Metropolitana de Fortaleza,20665,0.622,377,1824.34,156,2303956,1,🟡 Alta utilização
+COREAÚ,Noroeste,22063,0.582,577,2615.24,115,2304004,3,🟢 Utilização moderada
+CRATEÚS,Sertão dos Inhamuns,72812,0.651,1268,1741.47,158,2304103,2,🔵 Baixa utilização
+CRATO,Cariri,130938,0.74,2266,1730.59,159,2304202,2,🔵 Baixa utilização
+CROATÁ,Serra da Ibiapaba,17177,0.575,460,2678.0,111,2304236,3,🟢 Utilização moderada
+CRUZ,Litoral Norte,23036,0.618,579,2513.46,120,2304251,1,🟡 Alta utilização
+DEPUTADO IRAPUAN PINHEIRO,Sertão Central,10615,0.561,88,829.02,181,2304269,3,🟢 Utilização moderada
+ERERÊ,Jaguaribe,7540,0.574,39,517.24,183,2304277,3,🟢 Utilização moderada
+EUSÉBIO,Região Metropolitana de Fortaleza,57064,0.734,512,897.24,180,2304285,2,🔵 Baixa utilização
+FARIAS BRITO,Cariri,19038,0.599,644,3382.71,85,2304301,3,🟢 Utilização moderada
+FORQUILHA,Noroeste,22168,0.591,523,2359.26,130,2304350,3,🟢 Utilização moderada
+FORTALEZA,Região Metropolitana de Fortaleza,2428678,0.754,9364,385.56,184,2304400,2,🔵 Baixa utilização
+FORTIM,Litoral Leste,14987,0.616,277,1848.27,154,2304459,3,🟢 Utilização moderada
+FRECHEIRINHA,Noroeste,14154,0.592,212,1497.81,171,2304509,3,🟢 Utilização moderada
+GENERAL SAMPAIO,Norte,9476,0.582,242,2553.82,118,2304608,3,🟢 Utilização moderada
+GRAÇA,Noroeste,13958,0.586,259,1855.57,153,2304657,3,🟢 Utilização moderada
+GRANJA,Litoral Norte,52026,0.58,2518,4839.89,43,2304707,0,🔴 Altíssima utilização
+GRANJEIRO,Cariri,4751,0.591,96,2020.63,148,2304806,3,🟢 Utilização moderada
+GROAÍRAS,Noroeste,11614,0.613,168,1446.53,173,2304905,3,🟢 Utilização moderada
+GUAIÚBA,Região Metropolitana de Fortaleza,24751,0.622,571,2306.98,136,2304954,1,🟡 Alta utilização
+GUARACIABA DO NORTE,Serra da Ibiapaba,37776,0.64,1140,3017.79,96,2305001,1,🟡 Alta utilização
+GUARAMIRANGA,Maciço de Baturité,3977,0.671,134,3369.37,86,2305100,3,🟢 Utilização moderada
+HIDROLÂNDIA,Serra da Ibiapaba,19636,0.603,442,2250.97,139,2305209,3,🟢 Utilização moderada
+HORIZONTE,Região Metropolitana de Fortaleza,67064,0.7,625,931.95,179,2305233,2,🔵 Baixa utilização
+IBARETAMA,Sertão Central,13076,0.565,551,4213.83,62,2305266,3,🟢 Utilização moderada
+IBIAPINA,Serra da Ibiapaba,25037,0.614,472,1885.21,152,2305308,1,🟡 Alta utilização
+IBICUITINGA,Jaguaribe,10631,0.559,247,2323.39,135,2305332,3,🟢 Utilização moderada
+ICAPUÍ,Litoral Leste,20004,0.627,503,2514.5,119,2305357,1,🟡 Alta utilização
+ICÓ,Centro-Sul,67708,0.63,1819,2686.54,110,2305407,1,🟡 Alta utilização
+IGUATU,Centro-Sul,99018,0.677,1213,1225.03,177,2305506,2,🔵 Baixa utilização
+INDEPENDÊNCIA,Sertão dos Inhamuns,26902,0.594,627,2330.68,134,2305605,3,🟢 Utilização moderada
+IPAPORANGA,Sertão dos Inhamuns,13207,0.564,224,1696.07,161,2305654,3,🟢 Utilização moderada
+IPAUMIRIM,Centro-Sul,12513,0.579,305,2437.47,124,2305704,3,🟢 Utilização moderada
+IPÚ,Serra da Ibiapaba,40371,0.625,1002,2481.98,122,2305803,1,🟡 Alta utilização
+IPUEIRAS,Sertão dos Inhamuns,37524,0.588,630,1678.93,163,2305902,1,🟡 Alta utilização
+IRACEMA,Jaguaribe,14325,0.583,257,1794.07,157,2306009,3,🟢 Utilização moderada
+IRAUÇUBA,Noroeste,22429,0.576,855,3812.03,74,2306108,3,🟢 Utilização moderada
+ITAIÇABA,Litoral Leste,8175,0.576,114,1394.5,174,2306207,3,🟢 Utilização moderada
+ITAITINGA,Região Metropolitana de Fortaleza,40040,0.66,546,1363.64,176,2306256,1,🟡 Alta utilização
+ITAPAJÉ,Norte,48063,0.612,1070,2226.24,141,2306306,1,🟡 Alta utilização
+ITAPIPOCA,Litoral Norte,124423,0.637,7620,6124.27,12,2306405,1,🟡 Alta utilização
+ITAPIÚNA,Maciço de Baturité,20539,0.591,1178,5735.43,24,2306504,0,🔴 Altíssima utilização
+ITAREMA,Litoral Norte,37375,0.603,3080,8240.8,3,2306553,0,🔴 Altíssima utilização
+ITATIRA,Sertão Central,19659,0.556,1591,8092.99,4,2306603,0,🔴 Altíssima utilização
+JAGUARETAMA,Jaguaribe,17551,0.567,831,4734.77,45,2306702,0,🔴 Altíssima utilização
+JAGUARIBARA,Jaguaribe,10907,0.58,441,4043.27,69,2306801,3,🟢 Utilização moderada
+JAGUARIBE,Jaguaribe,34429,0.621,1214,3526.1,81,2306900,1,🟡 Alta utilização
+JAGUARUANA,Jaguaribe,35197,0.606,1544,4386.74,55,2307007,1,🟡 Alta utilização
+JARDIM,Cariri,27239,0.622,1655,6075.85,15,2307106,0,🔴 Altíssima utilização
+JATI,Cariri,7517,0.58,335,4456.57,53,2307205,3,🟢 Utilização moderada
+JIJOCA DE JERICOACOARA,Litoral Norte,17002,0.63,746,4387.72,54,2307254,1,🟡 Alta utilização
+JUAZEIRO DO NORTE,Cariri,278264,0.694,4495,1615.37,165,2307304,2,🔵 Baixa utilização
+JUCÁS,Centro-Sul,24024,0.589,1297,5398.77,32,2307403,0,🔴 Altíssima utilização
+LAVRAS DA MANGABEIRA,Centro-Sul,31696,0.598,1484,4681.98,47,2307502,0,🔴 Altíssima utilização
+LIMOEIRO DO NORTE,Jaguaribe,57012,0.653,1719,3015.15,97,2307601,1,🟡 Alta utilização
+MADALENA,Sertão Central,18680,0.568,1015,5433.62,30,2307635,0,🔴 Altíssima utilização
+MARACANAÚ,Região Metropolitana de Fortaleza,229458,0.686,4403,1918.87,151,2307650,2,🔵 Baixa utilização
+MARANGUAPE,Região Metropolitana de Fortaleza,130686,0.668,3728,2852.64,103,2307700,2,🔵 Baixa utilização
+MARCO,Litoral Norte,25434,0.609,1509,5933.0,17,2307809,0,🔴 Altíssima utilização
+MARTINÓPOLE,Litoral Norte,10671,0.591,703,6587.95,9,2307908,0,🔴 Altíssima utilização
+MASSAPÊ,Noroeste,36255,0.612,1492,4115.29,67,2308005,1,🟡 Alta utilização
+MAURITI,Cariri,43908,0.585,2587,5891.86,19,2308104,0,🔴 Altíssima utilização
+MERUOCA,Noroeste,13765,0.617,656,4765.71,44,2308203,0,🔴 Altíssima utilização
+MILAGRES,Cariri,28259,0.611,1572,5562.83,27,2308302,0,🔴 Altíssima utilização
+MILHÃ,Sertão Central,13521,0.56,613,4533.69,51,2308351,0,🔴 Altíssima utilização
+MIRAÍMA,Noroeste,13029,0.572,734,5633.59,26,2308377,0,🔴 Altíssima utilização
+MISSÃO VELHA,Cariri,35096,0.607,1921,5473.56,29,2308401,0,🔴 Altíssima utilização
+MOMBAÇA,Sertão Central,44484,0.579,1829,4111.59,68,2308500,1,🟡 Alta utilização
+MONSENHOR TABOSA,Sertão dos Inhamuns,17895,0.582,1106,6180.5,11,2308609,0,🔴 Altíssima utilização
+MORADA NOVA,Jaguaribe,63209,0.619,2025,3203.66,92,2308708,1,🟡 Alta utilização
+MORAÚJO,Noroeste,8946,0.574,518,5790.3,22,2308807,0,🔴 Altíssima utilização
+MORRINHOS,Litoral Norte,21197,0.602,1032,4868.61,41,2308906,0,🔴 Altíssima utilização
+MUCAMBO,Noroeste,14766,0.595,387,2620.89,114,2309003,3,🟢 Utilização moderada
+MULUNGU,Maciço de Baturité,11555,0.61,680,5884.9,20,2309102,0,🔴 Altíssima utilização
+NOVA OLINDA,Cariri,14420,0.607,880,6102.64,14,2309201,0,🔴 Altíssima utilização
+NOVA RUSSAS,Sertão dos Inhamuns,31082,0.607,967,3111.13,94,2309300,1,🟡 Alta utilização
+NOVO ORIENTE,Sertão dos Inhamuns,31988,0.572,1580,4939.35,39,2309409,0,🔴 Altíssima utilização
+OCARA,Região Metropolitana de Fortaleza,25065,0.59,882,3518.85,82,2309458,3,🟢 Utilização moderada
+ORÓS,Centro-Sul,21280,0.595,1303,6123.12,13,2309508,0,🔴 Altíssima utilização
+PACAJUS,Região Metropolitana de Fortaleza,73602,0.69,1682,2285.26,138,2309607,2,🔵 Baixa utilização
+PACATUBA,Região Metropolitana de Fortaleza,105287,0.68,1662,1578.54,167,2309706,2,🔵 Baixa utilização
+PACOTI,Maciço de Baturité,11697,0.625,528,4513.98,52,2309805,0,🔴 Altíssima utilização
+PACUJÁ,Noroeste,6026,0.592,255,4231.66,60,2309904,3,🟢 Utilização moderada
+PALHANO,Litoral Leste,9937,0.567,389,3914.66,71,2310001,3,🟢 Utilização moderada
+PALMÁCIA,Maciço de Baturité,11084,0.616,628,5665.82,25,2310100,0,🔴 Altíssima utilização
+PARACURU,Norte,32420,0.656,1365,4210.36,63,2310209,1,🟡 Alta utilização
+PARAIPABA,Norte,32239,0.637,1384,4292.94,59,2310258,1,🟡 Alta utilização
+PARAMBU,Sertão dos Inhamuns,31699,0.57,900,2839.21,104,2310308,3,🟢 Utilização moderada
+PARAMOTI,Norte,11684,0.583,632,5409.11,31,2310407,0,🔴 Altíssima utilização
+PEDRA BRANCA,Sertão Central,46035,0.583,1824,3962.2,70,2310506,1,🟡 Alta utilização
+PENAFORTE,Cariri,8621,0.594,753,8734.49,1,2310605,0,🔴 Altíssima utilização
+PENTECOSTE,Norte,36348,0.603,1381,3799.38,75,2310704,1,🟡 Alta utilização
+PEREIRO,Jaguaribe,16001,0.578,604,3774.76,76,2310803,3,🟢 Utilização moderada
+PINDORETAMA,Região Metropolitana de Fortaleza,19596,0.641,1172,5980.81,16,2310852,0,🔴 Altíssima utilização
+PIQUET CARNEIRO,Sertão Central,16094,0.574,532,3305.58,89,2310902,3,🟢 Utilização moderada
+PIRES FERREIRA,Noroeste,10262,0.582,381,3712.73,78,2310951,3,🟢 Utilização moderada
+PORANGA,Sertão dos Inhamuns,13127,0.566,672,5119.22,37,2311108,0,🔴 Altíssima utilização
+PORTEIRAS,Cariri,14659,0.595,866,5907.63,18,2311207,0,🔴 Altíssima utilização
+POTENGI,Cariri,9519,0.567,446,4685.37,46,2311306,0,🔴 Altíssima utilização
+POTIRETAMA,Jaguaribe,7165,0.563,249,3475.23,83,2311355,3,🟢 Utilização moderada
+QUITERIANÓPOLIS,Sertão dos Inhamuns,19800,0.563,833,4207.07,64,2311405,3,🟢 Utilização moderada
+QUIXADÁ,Sertão Central,87726,0.671,4018,4580.17,49,2311504,2,🔵 Baixa utilização
+QUIXELÔ,Centro-Sul,13695,0.58,663,4841.18,42,2311603,0,🔴 Altíssima utilização
+QUIXERAMOBIM,Sertão Central,78704,0.618,2621,3330.2,88,2311702,1,🟡 Alta utilização
+QUIXERÉ,Jaguaribe,21095,0.608,542,2569.33,117,2311801,3,🟢 Utilização moderada
+REDENÇÃO,Maciço de Baturité,25690,0.651,1200,4671.08,48,2311900,1,🟡 Alta utilização
+RERIUTABA,Noroeste,22015,0.607,760,3452.19,84,2312007,1,🟡 Alta utilização
+RUSSAS,Jaguaribe,73919,0.643,1260,1704.57,160,2312106,1,🟡 Alta utilização
+SABOEIRO,Sertão dos Inhamuns,15530,0.569,765,4925.95,40,2312205,0,🔴 Altíssima utilização
+SALITRE,Cariri,14951,0.559,1280,8561.3,2,2312304,0,🔴 Altíssima utilização
+SANTA QUITéRIA,Noroeste,42558,0.587,1797,4222.47,61,2312403,1,🟡 Alta utilização
+SANTANA DO ACARAÚ,Litoral Norte,30793,0.604,1955,6348.85,10,2312502,0,🔴 Altíssima utilização
+SANTANA DO CARIRI,Cariri,17040,0.601,1234,7241.78,7,2312601,0,🔴 Altíssima utilização
+SÃO BENEDITO,Serra da Ibiapaba,44538,0.64,2028,4553.42,50,2312809,1,🟡 Alta utilização
+SÃO GONÇALO DO AMARANTE,Região Metropolitana de Fortaleza,46043,0.659,1280,2780.01,106,2312908,1,🟡 Alta utilização
+SÃO JOÃO DO JAGUARIBE,Jaguaribe,8030,0.572,111,1382.32,175,2313005,3,🟢 Utilização moderada
+SÃO LUÍS DO CURU,Norte,12208,0.608,526,4308.65,57,2313104,0,🔴 Altíssima utilização
+SENADOR POMPEU,Sertão Central,24838,0.586,958,3856.99,72,2313203,3,🟢 Utilização moderada
+SENADOR SÁ,Noroeste,7205,0.584,415,5759.89,23,2313302,0,🔴 Altíssima utilização
+SOBRAL,Noroeste,232766,0.714,3789,1627.82,164,2313401,2,🔵 Baixa utilização
+SOLONÓPOLE,Sertão Central,16971,0.569,497,2928.53,100,2313500,3,🟢 Utilização moderada
+TABULEIRO DO NORTE,Jaguaribe,31060,0.608,997,3209.92,91,2313559,1,🟡 Alta utilização
+TAMBORIL,Sertão dos Inhamuns,54210,0.579,1397,2577.02,116,2313609,1,🟡 Alta utilização
+TARRAFAS,Centro-Sul,10533,0.555,405,3845.06,73,2313658,3,🟢 Utilização moderada
+TAUÁ,Sertão dos Inhamuns,56501,0.621,1328,2350.4,131,2313708,1,🟡 Alta utilização
+TEJUÇUOCA,Norte,17248,0.58,1343,7786.41,6,2313757,0,🔴 Altíssima utilização
+TIANGUÁ,Serra da Ibiapaba,75474,0.651,3926,5201.79,36,2313807,1,🟡 Alta utilização
+TRAIRI,Norte,55280,0.601,4377,7917.87,5,2313906,0,🔴 Altíssima utilização
+TURURU,Norte,18154,0.573,1008,5552.5,28,2313955,0,🔴 Altíssima utilização
+UBAJARA,Serra da Ibiapaba,31952,0.649,1694,5301.7,34,2314003,1,🟡 Alta utilização
+UMARI,Centro-Sul,9779,0.563,406,4151.75,65,2314102,3,🟢 Utilização moderada
+UMIRIM,Norte,18524,0.605,1074,5797.88,21,2314201,0,🔴 Altíssima utilização
+URUBURETAMA,Norte,21116,0.617,1524,7217.28,8,2314300,0,🔴 Altíssima utilização
+URUOCA,Noroeste,14091,0.597,735,5216.1,35,2314409,0,🔴 Altíssima utilização
+VARJOTA,Serra da Ibiapaba,18340,0.609,675,3680.48,79,2314508,3,🟢 Utilização moderada
+VÁRZEA ALEGRE,Centro-Sul,39136,0.589,874,2233.24,140,2314607,1,🟡 Alta utilização
+VIÇOSA DO CEARÁ,Serra da Ibiapaba,56855,0.617,2899,5098.94,38,2314706,1,🟡 Alta utilização
