@@ -1,18 +1,3 @@
-"""
-modelo.py
----------
-Clustering K-Means sobre os municípios do Ceará.
-
-O modelo agrupa municípios em 4 perfis com base em:
-  - atend_por_100k  (intensidade de uso do SUS)
-  - populacao       (tamanho do município)
-  - idh             (desenvolvimento humano)
-
-Gera o arquivo 'dados_com_cluster.csv' usado pelo painel.
-
-Execute após tratamento.py:
-    python modelo.py
-"""
 
 import pandas as pd
 import numpy as np
@@ -29,12 +14,17 @@ IN_PATH   = os.path.join(BASE_DIR, "dados", "dados_enriquecidos.csv")
 OUT_PATH  = os.path.join(BASE_DIR, "dados", "dados_com_cluster.csv")
 
 # ── 1. Carregar dados ────────────────────────────────────────────────────────
-print("▶ Carregando dados enriquecidos...")
+print(" Carregando dados enriquecidos...")
 df = pd.read_csv(IN_PATH)
-print(f"   {len(df)} municípios.")
+
+print(f"   {len(df)} municípios prontos para a modelagem.")
 
 # ── 2. Features para clustering ──────────────────────────────────────────────
+# ── 2. Features para clustering ──────────────────────────────────────────────
 FEATURES = ["atend_por_100k", "populacao", "idh"]
+
+# 🔧 PROGRAMAÇÃO DEFENSIVA: Agora sim a variável FEATURES existe na memória
+df = df.dropna(subset=FEATURES)
 
 X = df[FEATURES].copy()
 
@@ -58,7 +48,7 @@ for k in range(2, 8):
 
 # Escolhemos k=4 — boa separação e silhouette competitivo
 K_FINAL = 4
-print(f"\n   ✅ K escolhido: {K_FINAL}")
+print(f"\n    K escolhido: {K_FINAL}")
 
 # ── 4. Treinar modelo final ──────────────────────────────────────────────────
 print("\n▶ Treinando K-Means final...")
@@ -99,4 +89,4 @@ print(resumo.to_string())
 
 # ── 7. Salvar ────────────────────────────────────────────────────────────────
 df.to_csv(OUT_PATH, index=False)
-print(f"\n✅ Arquivo salvo: {OUT_PATH}")
+print(f"\n Arquivo salvo: {OUT_PATH}")

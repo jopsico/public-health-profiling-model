@@ -1,9 +1,3 @@
-"""
-app.py  —  Painel Interativo: Atendimentos SUS no Ceará
---------------------------------------------------------
-Execute com:
-    streamlit run app.py
-"""
 
 import streamlit as st
 import pandas as pd
@@ -415,12 +409,27 @@ with aba4:
 
     # Scatter 3D
     st.subheader("Visualização dos clusters")
+    # Mapeamento estrito de cores associado aos rótulos do seu K-Means
+    mapa_cores = {
+        "🔵 Baixa utilização": "#3b82f6",      # Azul
+        "🟢 Utilização moderada": "#22c55e",   # Verde
+        "🟡 Alta utilização": "#eab308",       # Amarelo
+        "🔴 Altíssima utilização": "#ef4444"   # Vermelho
+    }
+    ordem_desejada = [
+        "🔴 Altíssima utilização",
+        "🟡 Alta utilização",
+        "🟢 Utilização moderada",
+        "🔵 Baixa utilização"
+    ]
     fig_cluster = px.scatter_3d(
         df,
         x="idh",
         y="populacao",
         z="atend_por_100k",
         color="perfil",
+        color_discrete_map=mapa_cores,
+        category_orders={"perfil": ordem_desejada},
         hover_name="municipio",
         labels={
             "idh": "IDH",
